@@ -1,23 +1,20 @@
 ---
-title: "Peanut Butter Cookies"
+title:  "github.io 블로그 시작하기"
+excerpt: "GitHub Blog 서비스인 github.io 블로그 시작하기로 했다."
+
+categories:
+  - Blog
+tags:
+  - Blog
+last_modified_at: 2021-01-04T08:06:00-05:00
 ---
 
-A peanut butter cookie is a type of cookie that is distinguished for having peanut butter as a principal ingredient. The cookie generally originated in the United States, its development dating back to the 1910s.
+GitHub Blog 서비스인 github.io 블로그 시작하기로 했다.
+GitHub Blog 서비스의 이름은 Pages이다.
 
-## Ingredients
+Pages가 다른 블로그 플랫폼 보다 편한 것 같아서 마음에 든다.
+다른 사람들도 같이 많이 사용했으면 좋겠다는 생각이 든다.
 
-* 1 cup unsalted butter
-* 1 cup crunchy peanut butter
-* 1 cup white sugar
-* 1 cup packed brown sugar
-* 2 eggs 2 
-* 1/2 cups all-purpose flour 
-* 1 teaspoon baking powder
-* 1/2 teaspoon salt
-* 1 1/2 teaspoons baking soda
-
-## Directions
-
-1. Cream butter, peanut butter, and sugars together in a bowl; beat in eggs.
-2. In a separate bowl, sift flour, baking powder, baking soda, and salt; stir into butter mixture. Put dough in refrigerator for 1 hour.
-3. Roll dough into 1 inch balls and put on baking sheets. Flatten each ball with a fork, making a crisscross pattern. Bake in a preheated 375 degrees F oven for about 10 minutes or until cookies begin to brown.
+YFM에서 정의한 제목을 이중 괄호 구문으로 본문에 추가할 수 있다.
+이 글의 제목은 {{ page.title }}이고
+마지막으로 수정된 시간은 {{ page.last_modified_at }}이다.
